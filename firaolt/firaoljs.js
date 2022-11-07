@@ -1,0 +1,1 @@
+alert("welcome to firaolt (firaol-tamiru)")

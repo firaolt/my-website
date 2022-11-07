@@ -1,0 +1,31 @@
+div{
+    text-align: center;
+}
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+}
+body{
+    background-color: cornsilk;
+}
+h1{
+    font-size: 67px;
+}
+.tel{
+       font-size: 20px;
+    text-align: center;
+}
+button:hover{
+    -webkit-box-shadow: 5px 5px 15px 5px #fb2525;
+    box-shadow: 5px 5px 15px 5px #fb2525;;
+}
+img:hover{
+    -webkit-box-shadow: 5px 5px 15px 5px black;
+    box-shadow: 5px 5px 15px 5px black;;
+}
